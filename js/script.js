@@ -35,4 +35,4 @@ window.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-});
+}); 
